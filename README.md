@@ -8,7 +8,7 @@ I am Naimur Rahman, graduated from Bangladesh University of Engineering & Techno
 🌸 I enjoy some CSS and HTML as well! <br>
 ✅ Open to work <br>
 
-<h3>Languages & Tools I Use:</h3>
+<h3>⚡️ Languages & Tools I Use:</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
