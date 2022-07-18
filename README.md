@@ -15,13 +15,12 @@ I am Naimur Rahman, graduated from Bangladesh University of Engineering & Techno
 
 <!-- 
 [![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khushi0321&theme=react-dark&bg_color=20232a&hide_border=true&area=true)](https://git.io/khushi0321) 
--->
 
 ## ⚡ Technologies
 
 ### Language :
 
-![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -40,7 +39,7 @@ I am Naimur Rahman, graduated from Bangladesh University of Engineering & Techno
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) 
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
--->
+
 
 ## 📈 Stats
 
@@ -55,13 +54,12 @@ I am Naimur Rahman, graduated from Bangladesh University of Engineering & Techno
       <img src="https://github-profile-trophy.vercel.app/?username=Khushi0321&theme=nord&column=7" alt="Trophies" />
     </a>
   </div>
-</div> -->
+</div> 
 
 ### PROFILE VIEWS 
 ![VisitorCount](https://profile-counter.glitch.me/Khushi0321/count.svg)
 
 
-<!--
 **NaimurRahman3954/NaimurRahman3954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
