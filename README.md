@@ -1,30 +1,15 @@
-### Hi there! 👋 I'm Naimur Rahman. 👨🏻‍💻
-#Frontend JavaScript Web Developer
-
-🍃 I love creating new things <br>
-📖 I’m currently mastering JavaScript/React.js <br>
-🌸 I enjoy some CSS and HTML as well! <br>
-✅ Open to work <br>
-
-Languages & Tools I Use: <br>
-- CSS3 
-- HTML5 
-- Javascript 
-- VSCode 
-- Figma 
-- Git 
-- React
-
-Let's Connect:
-me in linkedin
----------------------------------------
-
 ### Hi there! 👋 I'm Naim. 👨🏻‍💻
 #Frontend JavaScript Web Developer
 
-I am Naimur Rahman, graduated from Bangladesh University of Engineering & Technology. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-<h2>📫 Reach out to me on</h2>
+I am Naimur Rahman, graduated from Bangladesh University of Engineering & Technology. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
+🍃 I love creating new things <br>
+📖 I’m currently mastering JavaScript/ React.js <br>
+🌸 I enjoy some CSS and HTML as well! <br>
+✅ Open to work <br>
+
+Find out more about me & feel free to connect with me here:
+<h2>📫 Reach out to me on</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnrahaman3954/)](https://www.linkedin.com/in/mnrahaman3954/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mnrahaman3954@gmail.com)](mailto:mnrahaman3954@gmail.com)
