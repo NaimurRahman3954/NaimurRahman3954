@@ -36,11 +36,11 @@ I am Naimur Rahman, graduated from Bangladesh University of Engineering & Techno
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 <!-- 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud) 
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
--->
 
 ## 📈 Stats
 
@@ -50,28 +50,14 @@ I am Naimur Rahman, graduated from Bangladesh University of Engineering & Techno
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi0321&theme=tokyonight" />
 </p>
 <br>
-<!-- <div align="center">
+
+<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img src="https://github-profile-trophy.vercel.app/?username=Khushi0321&theme=nord&column=7" alt="Trophies" />
     </a>
   </div>
-</div> -->
+</div> 
 
 ### PROFILE VIEWS 
 ![VisitorCount](https://profile-counter.glitch.me/Khushi0321/count.svg)
-
-
-<!--
-**NaimurRahman3954/NaimurRahman3954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Connekt Studio
-- 🌱 I’m currently learning React framework.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
