@@ -1,12 +1,14 @@
 ### Hi there! 👋 I'm Naimur Rahman. 👨🏻‍💻
 #Frontend JavaScript Web Developer
 
-🍃 I love creating new things
-📖 I’m currently mastering JavaScript/React.js
-🌸 I enjoy some CSS and HTML as well!
-✅ Open to work
-Languages & Tools I Use:
-CSS3 HTML5 javascript vscode figma git react
+🍃 I love creating new things <br>
+📖 I’m currently mastering JavaScript/React.js <br>
+🌸 I enjoy some CSS and HTML as well! <br>
+✅ Open to work <br>
+
+Languages & Tools I Use: <br>
+CSS3![image](https://user-images.githubusercontent.com/55896761/179476588-306e7f19-7519-4676-8afe-18406cf965e4.png)
+ HTML5 javascript vscode figma git react <br>
 
 Let's Connect:
 me in linkedin
