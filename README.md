@@ -7,8 +7,13 @@
 ✅ Open to work <br>
 
 Languages & Tools I Use: <br>
-CSS3![image](https://user-images.githubusercontent.com/55896761/179476588-306e7f19-7519-4676-8afe-18406cf965e4.png)
- HTML5 javascript vscode figma git react <br>
+- CSS3 
+- HTML5 
+- Javascript 
+- VSCode 
+- Figma 
+- Git 
+- React
 
 Let's Connect:
 me in linkedin
