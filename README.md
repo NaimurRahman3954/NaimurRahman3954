@@ -8,7 +8,6 @@ I am Naimur Rahman, graduated from Bangladesh University of Engineering & Techno
 🌸 I enjoy some CSS and HTML as well! <br>
 ✅ Open to work <br>
 
-Find out more about me & feel free to connect with me here:
 <h2>📫 Reach out to me on</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mnrahaman3954/)](https://www.linkedin.com/in/mnrahaman3954/)
