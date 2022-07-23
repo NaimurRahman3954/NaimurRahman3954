@@ -1,7 +1,6 @@
 
-### <h2> Hi there! 👋 I'm Naim. 👨🏻‍💻 </h2> <br>
+### Hi there! 👋 I'm Naim. 👨🏻‍💻
 <i>Frontend JavaScript Web Developer</i>
-<hr>
 
 I'm Naimur Rahman, graduated from Bangladesh University of Engineering & Technology. I'm a tech enthusiast, always open to collaborating on projects and innovative/ disruptive ideas. 
 
