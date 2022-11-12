@@ -1,12 +1,12 @@
 
 ### 👋 Hi there! I'm Naim. 👨🏻‍💻
-<i>Frontend JavaScript Web Developer</i>
+<i>Full Stack JavaScript Web Developer</i>
 
 I'm Naimur Rahman, graduated from Bangladesh University of Engineering & Technology. I'm a tech enthusiast, always open to collaborating on projects and innovative/ disruptive ideas. 
 
 🍃 I love creating new things <br>
-📖 I’m currently mastering JavaScript/ React.js <br>
-🌸 I enjoy some CSS and HTML as well! <br>
+📖 I’m currently mastering MongoDB <br>
+🌸 I enjoy some Javascript and React as well! <br>
 ✅ Open to work <br>
 
 <h3>⚡️ Languages & Tools I Use:</h3>
